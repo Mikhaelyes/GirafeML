@@ -19,7 +19,8 @@ def entropy(y):
     EPS = 0.0005
 
     # YOUR CODE HERE
-    shape = y.shape
+    sh = y.shape
+    shape = sh
     H = 0
     p = np.zeros(shape[1])
     for i in range (0, shape[1]):
