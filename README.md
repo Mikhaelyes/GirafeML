@@ -19,4 +19,5 @@ Boosting
 
 <span style="color:orange">
 1 Lab - Pipeline witn logistic regression, PCA, Tree, Bagging, RandomForest. <br/>
-2 Lab - Pipline with all data preprocessing KNN and Tree.
+2 Lab - Pipeline with nural network.<br/>
+3 Lab - Pipline with all data preprocessing KNN and Tree.
